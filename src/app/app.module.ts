@@ -17,7 +17,6 @@ import { AlertesFournisseursComponent } from './components/alertes-fournisseurs/
 import { ComplementsFournisseurComponent } from './components/complements-fournisseur/complements-fournisseur.component';
 import { ContratDomTraitmentComponent } from './components/contrat-dom-traitment/contrat-dom-traitment.component';
 import { CaisseComponent } from './components/caisse/caisse.component';
-import { AfficherCaisseComponent } from './components/afficher-caisse/afficher-caisse.component';
 import { DepenseServicesComponent } from './components/depense-services/depense-services.component';
 import { OrdrePaiementComponent } from './components/ordre-paiement/ordre-paiement.component';
 
@@ -56,6 +55,7 @@ import { IdentificationClientComponent } from './components/identification-clien
 import { PrefactureComponent } from './components/prefacture/prefacture.component';
 import { FristCallComponent } from './components/frist-call/frist-call.component';
 import { AjouterFristCallComponent } from './components/ajouter-frist-call/ajouter-frist-call.component';
+import { AfficherCaisseComponent } from './components/afficher-caisse/afficher-caisse.component';
 
 @NgModule({
   declarations: [

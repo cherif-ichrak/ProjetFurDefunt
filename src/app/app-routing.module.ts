@@ -7,7 +7,6 @@ import { AjouterFournisseurComponent } from './components/ajouter-fournisseur/aj
 import { ModifierFournisseursComponent } from './components/modifier-fournisseurs/modifier-fournisseurs.component';
 import { ContratDomTraitmentComponent } from './components/contrat-dom-traitment/contrat-dom-traitment.component';
 import { CaisseComponent } from './components/caisse/caisse.component';
-import { AfficherCaisseComponent } from './components/afficher-caisse/afficher-caisse.component';
 import { DepenseServicesComponent } from './components/depense-services/depense-services.component';
 import { OrdrePaiementComponent } from './components/ordre-paiement/ordre-paiement.component';
 
@@ -41,6 +40,7 @@ import { AjouterClientExploitationsComponent } from './components/ajouter-client
 import { PrefactureComponent } from './components/prefacture/prefacture.component';
 import { FristCallComponent } from './components/frist-call/frist-call.component';
 import { AjouterFristCallComponent } from './components/ajouter-frist-call/ajouter-frist-call.component';
+import { AfficherCaisseComponent } from './components/afficher-caisse/afficher-caisse.component';
 const routes: Routes = [
   { path: 'Parametrage', component: ParametrageComponent },
   { path: 'ParametragePwd', component: ParametragePwdComponent },
